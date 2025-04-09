@@ -2,7 +2,7 @@
 
 An intelligent system designed to guide students and researchers in planning and conducting science experiments. This AI-powered tool suggests relevant experiments, materials, and methodologies based on user input.
 
-![AI Advisor Demo](/image1.png)
+![AI Advisor Demo](image1.png)
 
 ---
 
