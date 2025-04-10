@@ -17,7 +17,7 @@ An intelligent system designed to guide students and researchers in planning and
 
 ## 📸 Demo
 
-![App Interface](images/image2.png)
+![App Interface](image2.png)
 
 > Note: Replace the `images/interface.png` with your actual image path or URL.
 
